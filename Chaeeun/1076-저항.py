@@ -5,3 +5,4 @@ third = color.index(input())
 
 result = int(str(first)+ str(second)) * (10 ** third)
 print(result)
+
